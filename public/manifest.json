@@ -1,6 +1,8 @@
 {
-  "short_name": "Portfolio app",
-  "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "name": "Portfolio app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://github.com/Alex-Desjardins/portfolio",
   "icons": [
     {
       "src": "favicon.ico",
