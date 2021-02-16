@@ -19,10 +19,10 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div
                 className="author-img"
-                style={{ backgroundImage: "url(images/profile.jpg)" }}
+                style={{ backgroundImage: "url(images/about.jpeg)" }}
               />
               <h1 id="colorlib-logo">
-                <a href="index.html">Linda Le</a>
+                <a href="index.html">Alex Desjardins</a>
               </h1>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -55,7 +55,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/linda-lewang/"
+                    href="https://www.linkedin.com/in/alex-desjardins-59297b8b/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -64,7 +64,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/linda-le1"
+                    href="https://github.com/Alex-Desjardins"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -72,7 +72,7 @@ export default class Sidebar extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="mailto: yueling1222@gmail.com">
+                  <a href="mailto: ardesjardins91@gmail.com">
                     <i className="icon-mail"></i>
                   </a>
                 </li>

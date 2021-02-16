@@ -17,25 +17,21 @@ export default class About extends Component {
                       <span className="heading-meta">About</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I'm a highly motivated, empathetic, and conscientious
+                        I'm a highly motivated, empathetic, curious, and optimistic
                         back-end developer based in Denver, Colorado. I have a
                         passion for data, testing, and functionality.
                       </p>
                       <p>
-                        Before I became a programmer, I worked in Higher
-                        Education. I spent the majority of my time working with
-                        international students and later transitioned into
-                        managing communications for student housing.
-                        Collaborating with a wide variety of stakeholders made
-                        me learn how to communicate complex topics simply.
+                        Before I becoming a software engineer, I worked as a Surgical Neurophysiologist.
+                        I spent the majority of my time monitoring patients spine and brain funtion during
+                        highly complex surgeries; ensuring there wasn't any damage being done to neural structures
+                        near the surgical site.
                       </p>
                       <p>
-                        After I earned my Master's in Information Communications
-                        Technology, I sought out a more technical role. This led
-                        me to becoming an SEO Strategist at a HubSpot Diamond
-                        Partner agency. I enjoyed being able to build sound,
-                        ethical SEO strategies and see the impact of my work.
-                        However, I still felt like something was missing.
+                        While working in neuro diagnostics, I began to become more
+                        drawn to the technical side of neuromonitoring and medical
+                        devices. After tryong out code academy, I decided to seek
+                        out a more technical role in health care.
                       </p>
                       <p>
                         My lifelong interest in technology, love of languages,
@@ -45,11 +41,11 @@ export default class About extends Component {
                         programming school. Throughout the program, I learned
                         new programming languages, tools, and technologies
                         quickly. Most of my programming experience is in Ruby on
-                        Rails, but I've also used Python, HTML/CSS, and Javascript. 
+                        Rails, but I've also used Python, HTML/CSS, and Javascript.
                       </p>
                       <p>
-                        Outside of coding, I'm an avid traveler, huge foodie,
-                        and caffeine addict.
+                        Outside of coding, I'm an avid rock climber, wood-worker,
+                        and health addict.
                       </p>
                     </div>
                   </div>

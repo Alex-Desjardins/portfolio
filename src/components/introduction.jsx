@@ -12,7 +12,7 @@ export default class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(images/sakura_bg.jpg)" }}>
+              <li style={{ backgroundImage: "url(images/table.jpg)" }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -22,7 +22,7 @@ export default class Introduction extends Component {
                           <h1>
                             Hello World
                             <br />
-                            I'm Linda
+                            I'm Alex
                           </h1>
                           <p>
                             <a
@@ -41,7 +41,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: "url(images/sakura_bg.jpg)" }}>
+              <li style={{ backgroundImage: "url(images/table.jpg)" }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
